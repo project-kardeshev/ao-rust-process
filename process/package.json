@@ -1,0 +1,17 @@
+{
+  "name": "ao-rust-module",
+  "version": "1.0.0",
+  "description": "ao module env from rust based wasm module",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@permaweb/ao-loader": "^0.0.35",
+    "@permaweb/aoconnect": "^0.0.57",
+    "arweave": "^1.15.1"
+  }
+}
